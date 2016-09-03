@@ -1,0 +1,61 @@
+.body-bg{ padding-top: 45px;background: url('../images/back.jpg') no-repeat fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.body-bc{background: #dadada;}
+.navbar-fixed-top .nav { padding: 4px 0; }
+header{background: #FFF;}
+.shadow{box-shadow: 0px 25px 30px 5px #191919;}
+.header-nav{box-shadow: 0px 0px 7px -1px #191919;}
+.active{border-bottom: 1px solid #e06c17;}
+.row{margin-left: 0px; margin-right: 0px;}
+.navbar-inverse .navbar-nav>li>a{color:#5182a7;font-size:13px;}
+.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;color:#5182a7;font-size:14px;}
+.navbar-inverse{background:#FFF;}
+.navbar-inverse .navbar-toggle{background-color:transparent;}
+.navbar-inverse .navbar-toggle:hover{background-color:transparent;}
+.navbar-toggle{background-color:transparent;}
+.icon-bar{background-color:#5182a7;  width: 20px;  height: 3px;}
+.navbar-toggle .icon-bar{display:block;width:28px;height:3px;border-radius:1px}
+.btn{display:inline-block;padding:6px 12px;margin-bottom:0;font-size:14px;font-weight:400;line-height:2;width:100px;text-align:center;white-space:nowrap;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-image:none;border:1px solid transparent;border-radius:4px}
+ 
+.header_menu{	float:right;	}	
+footer { width: 100%; margin-top:20px;	}
+
+.menu_item
+{
+	text-decoration:none;
+	letter-spacing: 3px;	
+	font-weight:400;
+	font-family: 'Montserrat', sans-serif !important;
+}
+.container_head_menu{
+	padding-right:20px;
+	padding-left:auto;
+	margin-right:20px;
+	margin-left:auto;
+}
+.navbar-toggle:focus{
+	.icon-bar{background-color:#FFF};
+}
+.error_msg
+{
+	margin-top:5px;
+	color:red;
+	font-size:14px;
+	text-shadow: 0px 1px 1px #050D15;
+}
+.sttop
+{
+	float: right;
+	top: -4px;
+	position: relative;
+	padding-right: 7px;
+	font-size: 21px;
+}
+.dialogdemoBasicUsage #popupContainer {
+  position: relative; }
+.dialogdemoBasicUsage .footer {
+  width: 100%;
+  text-align: center;
+  margin-left: 20px; }
+.dialogdemoBasicUsage .footer, .dialogdemoBasicUsage .footer > code {
+  font-size: 0.8em;
+  margin-top: 50px; }
